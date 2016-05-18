@@ -1,0 +1,28 @@
+name: smilenshare
+favicon: null
+layout_spectrum: 0.9471454164013267
+typography_spectrum: 0.14805351989343762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4356982298195362
+  lightness: 0.42694070702418685
+  saturation: 0.5894995413254946
+  rhythmicContrast: 0.6726020437199622
+purpose: []
